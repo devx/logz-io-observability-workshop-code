@@ -1,0 +1,37 @@
+# Generated files
+/deployTrackr/target/
+Cargo.lock
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+
+# Build artifacts
+*.o
+*.rlib
+*.rmeta
+
+# Test executables
+**/target/debug/
+**/target/test/
+**/target/benches/
+
+# Generated documentation
+**/target/doc/
+/docs/
+
+# Crate files
+*.crate
+
+# Environment files
+.env
+.env.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+

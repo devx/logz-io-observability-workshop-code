@@ -1,0 +1,14 @@
+{
+  "markers": [
+    {
+      "description": "Deployment utility test",
+      "title": "Testing Deployment rust utility",
+      "tag": "DEPLOYMENT",
+      "metadata": {
+        "version": "0.0.1",
+        "region": "us-east-2",
+        "deployedBy": "Workshop 01"
+      }
+    }
+  ]
+}
