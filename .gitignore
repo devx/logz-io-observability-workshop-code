@@ -1,5 +1,5 @@
 # Generated files
-/deployTrackr/target/
+target/
 Cargo.lock
 
 # Editor and IDE files

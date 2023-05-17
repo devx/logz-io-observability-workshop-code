@@ -1,0 +1,14 @@
+{
+  "markers": [
+    {
+      "description": "Marketing campaing - Got o11y?",
+      "title": "Lauch of Got o11y marketing campaign",
+      "tag": "OTHER",
+      "metadata": {
+        "region": "North America",
+        "deployedBy": "External Marketing Team",
+        "duration": "2 hours"
+      }
+    }
+  ]
+}

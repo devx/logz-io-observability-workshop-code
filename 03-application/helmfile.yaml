@@ -1,9 +1,0 @@
-repositories:
-  - name: open-telemetry
-    url: https://open-telemetry.github.io/opentelemetry-helm-charts
-releases:
-  - name: astronomy-shop
-    namespace: astronomy
-    chart: open-telemetry/opentelemetry-demo
-    values:
-      - values.yaml

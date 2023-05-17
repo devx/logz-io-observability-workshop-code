@@ -1,0 +1,15 @@
+{
+  "markers": [
+    {
+      "description": "Start: Deploy OpenTelemetry Demo application",
+      "title": "Deployment: of OpenTelemetry Demo Application",
+      "tag": "DEPLOYMENT",
+      "metadata": {
+        "version": "1.4.0",
+        "region": "us-east-2",
+        "deployedBy": "Workshop 01",
+        "method": "helmfile"
+      }
+    }
+  ]
+}

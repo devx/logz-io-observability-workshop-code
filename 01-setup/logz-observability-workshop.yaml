@@ -36,7 +36,7 @@ managedNodeGroups:
     instanceTypes:
       - t3a.medium
     labels:
-      alpha.eksctl.io/cluster-name: logz-io-o11y-2-workshop
+      alpha.eksctl.io/cluster-name: logz-io-o11y-workshop
       alpha.eksctl.io/nodegroup-name: ng-3e027f128
     maxSize: 5
     minSize: 3
