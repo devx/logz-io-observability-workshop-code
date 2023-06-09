@@ -37,10 +37,10 @@ managedNodeGroups:
       - t3a.medium
     labels:
       alpha.eksctl.io/cluster-name: logz-io-o11y-workshop
-      alpha.eksctl.io/nodegroup-name: ng-3e027f128
+      alpha.eksctl.io/nodegroup-name: ng-logz-io-o11y-workshop-linux
     maxSize: 5
     minSize: 3
-    name: ng-3e027f128
+    name: ng-logz-io-o11y-workshop-linux
     privateNetworking: true
     releaseVersion: ""
     securityGroups:
@@ -50,17 +50,17 @@ managedNodeGroups:
       allow: false
       publicKeyPath: ""
     tags:
-      alpha.eksctl.io/nodegroup-name: ng-3e027f128
+      alpha.eksctl.io/nodegroup-name: ng-logz-io-o11y-workshop-linux
       alpha.eksctl.io/nodegroup-type: managed
     volumeIOPS: 3000
     volumeSize: 80
     volumeThroughput: 125
     volumeType: gp3
 metadata:
-  name: logz-io-o11y-2-workshop
+  name: logz-io-o11y-workshop
   region: us-east-2
   tags:
-    Project: logz-io-o11y-2-workshop
+    Project: logz-io-o11y-workshop
     Product: workshop
     Traffic: external
     Owner: sales-engineering
